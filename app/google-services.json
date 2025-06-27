@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43098251198",
+    "project_id": "ejemplologin-d166f",
+    "storage_bucket": "ejemplologin-d166f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43098251198:android:72944ca7cefa47563ca3ef",
+        "android_client_info": {
+          "package_name": "rios.carlos.practicaautenticacionriosc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0hVD8kIeW0uPVIGQGt5LxBMCB_q1A0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
